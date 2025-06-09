@@ -6,13 +6,6 @@ Saaz, your friends on one tap.
 
 **Saaz** is a full-stack walkie-talkie web application that allows friends to connect instantly with just a tap. It integrates frontend, backend, and semantic vector search capabilities for a seamless and responsive user experience. Built with Dockerized services, it’s scalable, modular, and optimized for performance with caching.
 
----
-
-## 🌐 Live Demo
-
-*(Add deployed URL here if available)*
-
----
 
 ## 🧰 Tech Stack
 
